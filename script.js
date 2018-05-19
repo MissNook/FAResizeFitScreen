@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        FAResizeFitScreen
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      1
 // @description  Add a button to have a full view resized to screen.
 // @author       MissNook
 // @match        https://www.furaffinity.net/view/*
